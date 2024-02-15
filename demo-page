@@ -1,0 +1,6 @@
+git mkdir demo-page
+  git cd demo-page
+  demo-page git init
+  demo-page git:(master) git branch -M main
+    demo-page git:(main)
+demo-page git:(main) git remote add origin http://github.com/[user name]/demo-page.git
